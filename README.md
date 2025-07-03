@@ -51,7 +51,7 @@ I’m **Md. Tanbeer Hasan** from **Bangladesh 🇧🇩**, a results-driven full 
 ## 📫 Contact Me
 
 - 🌐 Website: [digitalplatformbd.com](https://digitalplatformbd.com)  
-- 🔗 LinkedIn: [linkedin.com/in/tanbeerhasan](https://linkedin.com/in/tanbeerhasan)  
+- 🔗 LinkedIn: [linkedin.com/in/tanbeerhasan]([https://linkedin.com/in/tanbeerhasan](https://www.linkedin.com/in/md-tanbeer-hasan-92a5b0158/))  
 - 💬 Email: `tanbeerhasan7@gmail.com`  
 - 💻 GitHub: [github.com/thbappy](https://github.com/thbappy)
 
